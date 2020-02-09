@@ -1,0 +1,46 @@
+#content {
+	min-height: calc(100% - 10rem);
+	padding: 10px 0 20px;
+	line-height: 2;
+	animation: up 1s;
+}
+
+.ant-table-wrapper {
+	width: 1000px;
+	margin: 20px auto;
+}
+
+.ant-table {
+	border-radius: 8px;
+	box-shadow: 0 4px 8px 6px rgba(7, 17, 27, .06);
+	transition: .3s;
+}
+
+.ant-table:hover {
+	box-shadow: 0 4px 12px 12px rgba(7, 17, 27, .15);
+}
+
+#table-header .ant-input-prefix i {
+	color: rgba(0, 0, 0, .25);
+}
+
+#table-header .ant-input-affix-wrapper {
+	width: 150px;
+	float: left;
+	margin-left: 15px;
+}
+
+#table-header .ant-btn {
+	margin-left: 215px;
+}
+
+th.column-left,
+td.column-left {
+	padding-left: 20px !important;
+	padding-right: 0 !important;
+}
+
+th.column-center,
+td.column-center {
+  text-align: center !important;
+}
