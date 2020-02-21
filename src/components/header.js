@@ -11,7 +11,7 @@ class Header extends Component {
 					<img id="logo" src="/static/favicon.ico" alt="logo" />
 					<div id="title">EducationCrawler</div>
 					<div id="btn">
-						<Tooltip title="Akijoey">
+						<Tooltip title="AkiJoey">
 							<a href="https://akijoey.com"><Avatar size="large" src="/static/avatar.png" /></a>
 						</Tooltip>
 					</div>
