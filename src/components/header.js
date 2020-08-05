@@ -9,7 +9,7 @@ class Header extends Component {
 			<div id="header">
 				<div id="nav">
 					<img id="logo" src="/static/favicon.ico" alt="logo" />
-					<div id="title">EducationCrawler</div>
+					<div id="title">Transcript</div>
 					<div id="btn">
 						<Tooltip title="AkiJoey">
 							<a href="https://akijoey.com"><Avatar size="large" src="/static/avatar.png" /></a>
